@@ -20,8 +20,4 @@ The goal is to assist financial institutions in making faster and more reliable 
 - Random Forest
 - Neural Network
 
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/k12vinay/Loan-Status-Predictor.git
-   cd Loan-Status-Predictor
+
